@@ -8,7 +8,7 @@ Contents of the Code Files are given below :-
 
 | Code File | Description  | 
 | ----  | --------- |
-| kaggle.py    | Executable .py file for kaggle submission|
+| kaggle_sub.py    | Executable .py file for kaggle submission|
 | final(colab).ipynb    | Function 1 - takes input X, returns prediction Y|
 | final(colab).ipynb    | Function 2 - takes input (X,Y), returns evaluation metric (RMSLE)|
 
