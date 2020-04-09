@@ -4,11 +4,20 @@ This Case Study is based on a Kaggle dataset - https://www.kaggle.com/c/mercari-
 
 Here is my detailed blog - https://medium.com/@debayanmitra1993/mercari-price-recommendation-for-online-retail-sellers-979c4d07f45c
 
-Final code submission on kaggle is in  kaggle-sub.py
 
+Final code submission on kaggle is in  kaggle-sub.py
 final(colab).py contains 2 functions - 
   Function 1 takes an input X, returns prediction Y
   Function 2 takes input (X,Y), returns evaluation metric (RMSLE)
+  
+
+| Code File | Description  | 
+| ----  | --------- |
+| kaggle.py    | Executable .py file for kaggle submission|
+| final(colab).ipynb    | Function 1 - takes input X, returns prediction Y|
+| final(colab).ipynb    | Function 2 - takes input (X,Y), returns evaluation metric (RMSLE)|
+
+
 
 All Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :- 
 
