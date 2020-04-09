@@ -6,6 +6,10 @@ Here is my detailed blog - https://medium.com/@debayanmitra1993/mercari-price-re
 
 Final code submission on kaggle is in  kaggle-sub.py
 
+final(colab).py contains 2 functions - 
+  Function 1 takes an input X, returns prediction Y
+  Function 2 takes input (X,Y), returns evaluation metric (RMSLE)
+
 All Experimentation and Models are in .ipynb files. Table of Contents and sections in .ipynb files as below :- 
 
 | S.No: | Section  | Notebook(.ipynb) |
