@@ -4,12 +4,7 @@ This Case Study is based on a Kaggle dataset - https://www.kaggle.com/c/mercari-
 
 Here is my detailed blog - https://medium.com/@debayanmitra1993/mercari-price-recommendation-for-online-retail-sellers-979c4d07f45c
 
-
-Final code submission on kaggle is in  kaggle-sub.py
-final(colab).py contains 2 functions - 
-  Function 1 takes an input X, returns prediction Y
-  Function 2 takes input (X,Y), returns evaluation metric (RMSLE)
-  
+Contents of the Code Files are given below :-
 
 | Code File | Description  | 
 | ----  | --------- |
