@@ -2,7 +2,7 @@
 
 This Case Study is based on a Kaggle dataset - https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
-Here is my detailed blog - https://medium.com/@debayanmitra1993/mercari-price-recommendation-for-online-retail-sellers-979c4d07f45c
+Here is the detailed blog - https://medium.com/@debayanmitra1993/mercari-price-recommendation-for-online-retail-sellers-979c4d07f45c
 
 Contents of the Code Files are given below :-
 
